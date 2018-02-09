@@ -183,7 +183,7 @@ void ejercicio1(){
 		cout<< "¿Desea continuar agregando fechas?" << endl;
 		cin >> resp;
 	}while(resp == 's');
-	cout<< "Escoja una opcion"<< endl;
+	cout<< "Escoja una opcion"<< endl << "Hace los ultimos dos, solo que me da un error de incialiacion de croossover innici..."<< endl;
 	cout<< "1.-Mes especifico"<< endl<< "2.-Año especifico"<<endl<<"Dia especifico"<<endl;
 	int opcion = 0;
 	cin >> opcion;
